@@ -1,0 +1,14 @@
+#include<iostream.h>
+#include<conio.h>
+int main()
+{
+int a,b,c;
+Cout<<"---- Programm for addition of two numbers ----";
+cout<<"\n Enter 1st Number : ";
+cin>>a;
+cout<<"\n Enter 2nd Number : ";
+cin>>b;
+c=a+b;
+cout<<"\n Sum is : "<<c;
+return 0;
+}
